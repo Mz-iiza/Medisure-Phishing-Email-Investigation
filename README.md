@@ -1,8 +1,8 @@
 # Medisure Phishing Email Investigation 
-Phishing detection, incident response, and security awareness for MediSure Health Network — from a real-world business email compromise attempt to a stronger, more resilient organization.
+Phishing detection, incident response, and security awareness for MediSure Health Network, from a real-world business email compromise attempt to a stronger, more resilient organization.
 
 Business Context
-A phishing email disguised as a vendor invoice targeted MediSure staff, aiming to steal patient data and financial records. The systems held — but the incident exposed a human vulnerability, prompting a full investigation and a push toward long-term resilience.
+A phishing email disguised as a vendor invoice targeted MediSure staff, aiming to steal patient data and financial records. The systems held, but the incident exposed a human vulnerability, prompting a full investigation and a push toward long-term resilience.
 
 Objectives
 
@@ -18,17 +18,17 @@ Investigation Workflow
 🌐 Domain and sender validation
 🔗 Attachment and link analysis for hidden threats
 📊 Network traffic examination via SIEM
-🚫 Incident response — domain blocking, account resets
+🚫 Incident response, domain blocking, account resets
 👀 Continuous monitoring for related threats
 📝 Detailed reporting and documentation
 
 Tools Used
 
-🔍 MXToolbox — domain and DNS validation
-🦠 VirusTotal — malware and URL/file reputation checks
-📈 Splunk — SIEM log analysis and traffic monitoring
-📬 SpamAssassin — email filtering and spam detection
-🎣 PhishTool — phishing email triage and analysis
+🔍 MXToolbox: domain and DNS validation
+🦠 VirusTotal: malware and URL/file reputation checks
+📈 Splunk: SIEM log analysis and traffic monitoring
+📬 SpamAssassin: email filtering and spam detection
+🎣 PhishTool: phishing email triage and analysis
 
 Awareness & Training
 Beyond the technical response, staff were trained to recognize phishing indicators and respond safely — turning the workforce into the organization's first line of defense.
