@@ -1,5 +1,5 @@
 # Medisure Phishing Email Investigation 
-Phishing detection, incident response, and security awareness for MediSure Health Network — from a real-world business email compromise attempt to a stronger, more resilient organization.
+Phishing detection, incident response, and security awareness for MediSure Health Network, from a real-world business email compromise attempt to a stronger, more resilient organization.
 
 Business Context
 A phishing email disguised as a vendor invoice targeted MediSure staff, aiming to steal patient data and financial records. The systems held, but the incident exposed a human vulnerability, prompting a full investigation and a push toward long-term resilience.
